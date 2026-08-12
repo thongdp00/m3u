@@ -21,15 +21,16 @@ https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=100
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5-hd-tnb" tvg-name="VTV5 HD - Tây Nam Bộ" tvg-logo="data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120"><rect width="100%" height="100%" rx="16" fill="%230f172a"/><g transform="translate(18, 18) scale(0.9)"><path d="M10 15 L25 55 L38 15 L52 15 L32 68 L18 68 L2 15 Z" fill="%23EF4444"/><path d="M48 15 L68 15 L68 27 L58 27 L58 68 L44 68 L44 27 L34 27 L34 15 Z" fill="%233B82F6"/><path d="M68 15 L83 55 L96 15 L110 15 L90 68 L76 68 L60 15 Z" fill="%2310B981"/><text x="118" y="65" font-family="sans-serif" font-weight="900" font-size="56" fill="%23F59E0B">5</text></g><rect x="10" y="80" width="180" height="28" rx="6" fill="%23DC2626"/><text x="100" y="99" font-family="sans-serif" font-weight="800" font-size="13" fill="%23FFFFFF" text-anchor="middle" letter-spacing="0.5">TÂY NAM BỘ</text></svg>" group-title="VTV",VTV5 HD - Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv5tnb.png", VTV5 HD - Tây Nam Bộ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5-hd-tn" tvg-name="VTV5 HD - Tây Nguyên" tvg-logo="data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120"><rect width="100%" height="100%" rx="16" fill="%230f172a"/><g transform="translate(18, 18) scale(0.9)"><path d="M10 15 L25 55 L38 15 L52 15 L32 68 L18 68 L2 15 Z" fill="%23EF4444"/><path d="M48 15 L68 15 L68 27 L58 27 L58 68 L44 68 L44 27 L34 27 L34 15 Z" fill="%233B82F6"/><path d="M68 15 L83 55 L96 15 L110 15 L90 68 L76 68 L60 15 Z" fill="%2310B981"/><text x="118" y="65" font-family="sans-serif" font-weight="900" font-size="56" fill="%23F59E0B">5</text></g><rect x="10" y="80" width="180" height="28" rx="6" fill="%232563EB"/><text x="100" y="99" font-family="sans-serif" font-weight="800" font-size="13" fill="%23FFFFFF" text-anchor="middle" letter-spacing="0.5">TÂY NGUYÊN</text></svg>" group-title="VTV",VTV5 HD - Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv5tn.png", VTV5 HD - Tây Nguyên 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6-hd" tvg-name="VTV6 HD" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv6.png" group-title="VTV",VTV6 HD
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
@@ -585,10 +586,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name=" TTV HD | TH Tuyên Quang" tvg-logo="https://freem3u.xyz/static/images/diaphuong/tuyenquang.png" group-title="Địa Phương", TTV HD | TH Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="hitv"  tvg-name= "HiTV" tvg-logo="https://freem3u.xyz/static/images/hanoicab/hitv.png"  group-title="Địa Phương", HiTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1786603818&token=80a8474a03dd4342234baa052c7e24bf
 
 #EXTINF:-1 tvg-id="youtv"  tvg-name= "You TV" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png"  group-title="Địa Phương", You TV 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
