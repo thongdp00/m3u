@@ -591,8 +591,8 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1786603818&token=80a8474a03dd4342234baa052c7e24bf
 
 #EXTINF:-1 tvg-id="youtv"  tvg-name= "You TV" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png"  group-title="Địa Phương", You TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1786603818&token=e4fef40d1639ac4bab5cd69e1bb1823e
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 
 #EXTINF:-1 tvg-id="phim-bau-vat-troi-cho" tvg-name="Báu Vật Trời Cho" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/22/bc4677df/bc4677df-dbcd-4a57-844b-390414aa1778_640_360.jpg" group-title="Phim truyện",Báu Vật Trời Cho
