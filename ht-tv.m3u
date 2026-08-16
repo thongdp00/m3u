@@ -53,6 +53,28 @@ https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/13/16_1786563003321.jpg", Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/14/16_1786648702166.jpg", Event 2 4K
+https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8?sign=1786859414-NDI5MjY2NQ-0-206d31bf2d498fd014e41f726cd12426
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/15/danish-golf-championship-2026---slide-thumb_1786783588678.jpg", Sự Kiện 1
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/14/16_1786650654931.jpg", Sự Kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/15/asean-hyundai-cup-2026-thumb_1786771336833.jpg", Sự Kiện 11
+https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/12/live-vba-2026-slide-thumb_1786524881545.jpg", Sự Kiện 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/12/slider_1786521971212.jpg", Sự Kiện 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/13/slider_1786589534587.jpg", Arsenal vs Manchester City (Event 35)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e
+https://vips-livecdn.fptplay.net/live/media/event-35/dash_a_drm/index.mpd
+
 #EXTINF:-1 tvg-id="OnHomeShopping" group-title="VTVcab"  tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/hom.png" , On HomeShopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
