@@ -105,7 +105,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 
 #EXTINF:-1 tvg-id="onphimviet"  tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png" group-title="VTVcab", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
+https://tv.vietanhtv.top/tv360/tv360.php?id=175&expires=1787010777&token=ca6f7fc9a6ec154e3248afa18fb324ab
 
 #EXTINF:-1 tvg-id="vtvcab-style" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onstyle.png" ,ON Style TV
 #KODIPROP:inputstream=inputstream.adaptive
