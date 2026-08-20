@@ -142,6 +142,42 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tv/cleankey.php?id=tv360173&token=a315efcc764a1be51fcbfa709e2629a0
+https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1787285623&token=6d892ecad0f721c0366a282eca814f3b
+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+ 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tv/cleankey.php?id=tv360183&token=a315efcc764a1be51fcbfa709e2629a0
+https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1787285623&token=43860df776af3b5b9471ea049620a703
+
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tv/cleankey.php?id=tv360174&token=a315efcc764a1be51fcbfa709e2629a0
+https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1787285623&token=274ee690607f505442d5f031209f4eaa
+
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tv/cleankey.php?id=tv360170&token=a315efcc764a1be51fcbfa709e2629a0
+https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1787285623&token=b6e87ea12a08894aaed4305f439f4e13
+
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1787285623&token=835aa8d8d54214d9b4516dfee10b1483
+
 #EXTINF:-1 tvg-id="htv-the-thao-hd" tvg-logo="https://vietanhtv.id.vn/logo/htvthethao.png" group-title="HTV",HTV Thể Thao HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
@@ -243,8 +279,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
 https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
 
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv5.png", SCTV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://vietanhtv.id.vn/sctv/sctv5-a3cdb592/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv5
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -272,8 +307,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv10.png", SCTV10 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://vietanhtv.id.vn/sctv/sctv10-0faf313b/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv10
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv11.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
