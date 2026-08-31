@@ -657,6 +657,83 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1788150498&token=42f9121a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1788150498&token=764d36a75a1b3bfc08277f9f2eb67299
 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png", NZ: Sky Sport 7 
+http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://s.imgexpress.net/79abf3692e004ad19fd067926b0ce783cee374387b057dcf375dd9a7f027d60d.png", UK: Sky Sports Main Event 
+http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7015
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://s.imgexpress.net/a338edc9b09ea4aecd5a614c8aef4b75d98093db559d641d93dc50063a635360.png" , UK: Sky Sports Football 
+http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7018
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://i.ibb.co/twmrnfc9/ezgif-57a4c4c95d887c.png", UK: Sky Sports + 
+http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254465
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://s.imgexpress.net/88589b6f7b2112c7dcaeb58a545a0264446dafa32416c6817d23e40653bc0185.png", UK: Sky Sports Premier League 
+ http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254473
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"   tvg-id="epl" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/960px-Premier_League_Logo.svg.png", EPL 01
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-id="epl" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/960px-Premier_League_Logo.svg.png", EPL 02
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
+https://shoebinfo.qzz.io/plugx21/hot.php/STAR-SPORTS-1-SELECT-HD.mpd
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",CA -  BEIN SPORTS 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/673514
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",US - BEIN SPORTS XTRA 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/364666
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/premiersports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - PREMIER SPORTS 1 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17271
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",PT - ELEVEN SPORTS 1 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/151547
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",PT - ELEVEN SPORTS 2
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030809
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",PT - ELEVEN SPORTS 3 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030811
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PT - ELEVEN SPORTS 4 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030813
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",EN - BEIN SPORTS 1 ENGLISH 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986985
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ",AR - BEIN SPORTS 8 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/987001
+#EXTINF:- 1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 7 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73357
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 6 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73358
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 5 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73359
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 4 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73360
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 3 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83133
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 2 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83132
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",AR - BEIN SPORTS 1 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73354
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" ,SPOTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv2.png" ,SPOTV2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
+
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" group-title="Quốc tế" , Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -733,21 +810,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
-#EXTINF:-1 tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
-
 #EXTINF:-1 tvg-id="kix"  tvg-logo="https://freem3u.xyz/static/images/global/kix.png" group-title="Quốc Tế", Kix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv2.png" group-title="Quốc Tế",SPOTV2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvb-vietnam" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" group-title="Quốc Tế",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
