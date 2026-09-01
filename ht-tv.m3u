@@ -659,14 +659,7 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1788150498&token=764d36a7
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png", Sky Sport 7 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://s.imgexpress.net/79abf3692e004ad19fd067926b0ce783cee374387b057dcf375dd9a7f027d60d.png", Sky Sports Main Event 
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7015
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://s.imgexpress.net/a338edc9b09ea4aecd5a614c8aef4b75d98093db559d641d93dc50063a635360.png" , Sky Sports Football 
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7018
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://i.ibb.co/twmrnfc9/ezgif-57a4c4c95d887c.png", Sky Sports + 
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254465
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://s.imgexpress.net/88589b6f7b2112c7dcaeb58a545a0264446dafa32416c6817d23e40653bc0185.png", Sky Sports Premier League 
- http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254473
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 
@@ -769,7 +762,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980406
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 3
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980407
 
-#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 4 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 4 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311556
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",TNT SPORTS Premium
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
@@ -777,9 +770,17 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ",NOW SPORTS 1
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1301200
 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",Sky Sports Football 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyamainevent.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Main Event 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17286
+#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skypre.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Premier League 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17285
 
-
-
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",Sky Sports+
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://s.imgexpress.net/9c798a235a1d518a718287c7ecdc47613a2951faba1c6362e826540abf1736a1.png" Sky Sport Premier League 
+http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523 
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
