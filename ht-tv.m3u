@@ -671,15 +671,13 @@ http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254465
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/premiersports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",PREMIER SPORTS 1(Laliga) 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17271
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ", ELEVEN SPORTS 1 (La liga)
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ", ELEVEN SPORTS 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/151547
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",ELEVEN SPORTS 2(EPL)
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",ELEVEN SPORTS 2
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030809
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",ELEVEN SPORTS 3(Bundesliga) 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",ELEVEN SPORTS 3 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030811
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ELEVEN SPORTS 4 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030813
@@ -699,19 +697,19 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/835393
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/835394
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSHSPORTS2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",RUSH SPORTS 2(Laliga)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/933436
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skymix.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS MIX 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skymix.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Mix
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17284
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS ARENA
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Arena
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17291
-#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skygolff.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS GOLF
+#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skygolff.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Golf
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17287
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyracingg.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS RACING 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyracingg.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Racing
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/304708
-#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skysportste.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS TENNIS 
+#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skysportste.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports Tennis
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664451
-#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS NEWS 
+#EXTINF:- group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports News
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348323
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/SKYF1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SKY SPORTS F1 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/SKYF1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ", Sky Sports F1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1015492
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",NOW SPORTS(EPL) 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
@@ -761,9 +759,9 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/200924
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325608
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/foxx.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",FOX SPORTS 1(F1)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/71989
-
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/directv.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",DIRECT TV SPORTS
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325581
+
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
