@@ -740,7 +740,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73359
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/73360
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BEIN SPORTS 3( Laliga)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83133
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BEIN SPORTS 2(EPL)
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BEIN SPORTS 2
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83132
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/FUBOSPORTSnet.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FUBO SPORTS NETWORK 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/200924
@@ -767,8 +767,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311556
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",TNT SPORTS Premium
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",NOW SPORTS 1
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",Sky Sports Football 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
@@ -781,6 +779,9 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17285
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://s.imgexpress.net/9c798a235a1d518a718287c7ecdc47613a2951faba1c6362e826540abf1736a1.png" Sky Sport 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",NOW SPORTS 1
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
+
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
