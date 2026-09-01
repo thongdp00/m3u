@@ -681,14 +681,10 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030809
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030811
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",ELEVEN SPORTS 4 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030813
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",STAR SPORTS SELECT 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ",STAR SPORTS SELECT 2 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404533
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",TNT SPORTS Premium
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/AFRICA/TANZANIA/azam-sport.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ", SPORTS 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/942369
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/AFRICA/TANZANIA/azam-sport2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",SPORTS 2
@@ -732,7 +728,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/78139
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211444
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",BEIN SPORTS 1 FRENCH 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/211446
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",BEIN SPORTS 1 ENGLISH(Laliga)
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",BEIN SPORTS 1 ENGLISH
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/986985
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",BEIN SPORTS 8 XTRA 
@@ -757,10 +753,32 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/83132
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/200924
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/fuboo.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",FUBO SPORTS XTRA
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325608
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/foxx.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",FOX SPORTS 1(F1)
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/foxx.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",FOX SPORTS 1
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/71989
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/USA/directv.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",DIRECT TV SPORTS
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325581
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",CYTAVISION SPORTS 1 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324974
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 1 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17281
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 2 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980406
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 3
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980407
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",TNT SPORTS 4 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311556
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",TNT SPORTS Premium
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/VIP/4k_ultra.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="3840x2160" gau-bitrate="Không rõ",NOW SPORTS 1
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1301200
+
+
+
 
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
