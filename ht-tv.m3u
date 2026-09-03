@@ -723,58 +723,58 @@ https://livesport.io.vn/ok/vip1.php?id=tsn3
 https://livesport.io.vn/ok/vip1.php?id=tsn4
 #EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
 https://livesport.io.vn/ok/vip1.php?id=tsn5
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png", Sky Sport 7 
+#EXTINF:-1 tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png" group-title="Thể thao quốc tế", Sky Sport 7 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Thể thao quốc tế", Canal+ Foot
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 
+#EXTINF:-1  tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png" group-title="Thể thao quốc tế", Max Sport 4 
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png", Hub Premier 1
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 1
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/351595
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png", Hub Premier 2
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 2
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/351594
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png", Hub Premier 3
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 3
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/351592
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png", Hub Premier 4
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 4
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/351591
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png", Hub Premier 5
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 5
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/351590
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png", Hub Premier 6
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 6
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/351589
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Premier Sports 1
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Premier Sports 1
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/200230
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Premier Sports 3
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Premier Sports 3
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/200228
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 1
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 1
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246323
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 2
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 2
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246324
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 3
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 3
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/200224
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 4
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 4
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246325
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 5
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 5
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246326
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 6
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 6
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246327
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports 7
+#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 7
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246328
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ"tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg", Now Sports
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/339878
 #EXTINF:-1 tvg-id="ttqt-bein-sports-1" tvg-name="BEIN SPORTS 1" tvg-logo="https://livesport.io.vn/logo/sport/befr1.png" group-title="Thể thao quốc tế",BEIN SPORTS 1
 https://livesport.io.vn/ok/stalkvip.php?id=be1fr
@@ -812,14 +812,14 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTINF:-1 tvg-id="ttqt-prima-sport-5" tvg-name="PRIMA SPORT 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-prima-tv-2761.png" group-title="Thể thao quốc tế",PRIMA SPORT 5
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
-#EXTINF:- 1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg", Bein Sports LaLiga
+#EXTINF:- 1   tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", Bein Sports LaLiga
 http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/7868
-#EXTINF:- 1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg", M+ LaLiga 4
+#EXTINF:- 1  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", M+ LaLiga 4
 http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/7861
 
-#EXTINF:- 1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg", M+ LaLiga 5
+#EXTINF:- 1  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", M+ LaLiga 5
 http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/373603
-#EXTINF:- 1 group-title="THỂ THAO QUỐC TẾ"  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg", M+ LaLiga
+#EXTINF:- 1  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", M+ LaLiga
 http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/297303
 #EXTINF:-1 tvg-id="ttqt-dazn-1" tvg-name="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1
 https://livesport.io.vn/ok/apo.php?id=ele11
@@ -832,13 +832,13 @@ https://livesport.io.vn/ok/smart.php?id=ele4
 #EXTINF:-1 tvg-id="ttqt-dazn-5" tvg-name="DAZN 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5
 https://livesport.io.vn/ok/apo.php?id=ele5
 
-#EXTINF:-1  group-title="THỂ THAO QUỐC TẾ" tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" ,SPOTV
+#EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Thể thao quốc tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv2.png"  ,SPOTV2
+#EXTINF:-1  tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv2.png" group-title="Thể thao quốc tế"  ,SPOTV2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
