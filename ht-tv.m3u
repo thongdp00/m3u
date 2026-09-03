@@ -701,10 +701,6 @@ https://livesport.io.vn/ok/stalkvip.php?id=uni1
 https://livesport.io.vn/ok/vip1.php?id=uni1
 #EXTINF:-1 tvg-id="ttqt-espn-deportes-live" tvg-name="ESPN DEPORTES (Live)" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="Thể thao quốc tế",ESPN DEPORTES (Live)
 https://livesport.io.vn/ok/vip1.php?id=espndeport
-#EXTINF:-1 tvg-id="ttqt-premier-sports-1-live" tvg-name="PREMIER SPORTS 1 (Live)" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1 (Live)
-https://livesport.io.vn/ok/stalkvip.php?id=pre1
-#EXTINF:-1 tvg-id="ttqt-premier-sports-2-live" tvg-name="PREMIER SPORTS 2 (Live)" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2 (Live)
-https://livesport.io.vn/ok/stalkvip.php?id=pre2
 #EXTINF:-1 tvg-id="ttqt-tnt-sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="Thể thao quốc tế",TNT SPORTS 1
 https://livesport.io.vn/ok/vip1.php?id=tnt1
 #EXTINF:-1 tvg-id="ttqt-tnt-sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="Thể thao quốc tế",TNT SPORTS 2
@@ -725,7 +721,6 @@ https://livesport.io.vn/ok/vip1.php?id=tsn4
 https://livesport.io.vn/ok/vip1.php?id=tsn5
 #EXTINF:-1 tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png" group-title="Thể thao quốc tế", Sky Sport 7 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Thể thao quốc tế", Canal+ Foot
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1  tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png" group-title="Thể thao quốc tế", Max Sport 4 
@@ -767,7 +762,6 @@ http://royallivetv.club:80/gTTUesHD/YWRzphB913/246326
 
 #EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 6
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246327
-
 #EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 7
 http://royallivetv.club:80/gTTUesHD/YWRzphB913/246328
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports
@@ -797,6 +791,8 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324972
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 5(MUTV)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324970
+#EXTINF:-1 " tvg-logo="https://go4.pw/UK/premiersports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,PREMIER SPORTS 1(Laliga) 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17271
 
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/play.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",PLAY SPORTS 2(EPL)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
