@@ -848,26 +848,12 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030811
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,ELEVEN SPORTS 4 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030813
 
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CANAL+ 
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=845369&extension=ts&play_token=1eclIP71kI
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CANAL+ GRAND ECRAN 
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=690986&extension=ts&play_token=zgAFAzWrQF
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CANAL+ SPORT
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=554013&extension=ts&play_token=Y85sJPEwaJ
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="RẤT MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CANAL+ LIVE 2
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1150879&extension=ts&play_token=88UoD9lcGj
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CANAL+ LIVE 11
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1150870&extension=ts&play_token=T4ea2Moy5K
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế", CANAL+ LIVE 19
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1150862&extension=ts&play_token=AgnoJOglvI
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế", CANAL+ CINEMA 
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=553687&extension=ts&play_token=kD1SDnTagD
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CANAL+ 360 
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=553688&extension=ts&play_token=pwtEfg0SSp
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế", DAZN 1
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1370691&extension=ts&play_token=4lPxiixWmp
-#EXTINF:-1 tvg-expire="18/02/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",DAZN 2
-http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:6E:A0:31&stream=1370690&extension=ts&play_token=dpvq9RPz9N
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", DAZN LaLiga 
+http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/284190
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", DAZN LaLiga 2 
+http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/283406
+
 #EXTINF:- 1  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", M+ LaLiga 4
 http://4connect.link:80/kwgrRGUfIh/MecYhcUK0z/7861
 #EXTINF:- 1  tvg-logo="https://cdn.phototourl.com/free/2026-09-03-25fcad35-c9fa-4dec-9be7-f8ff8766870c.jpg" group-title="Thể thao quốc tế", M+ LaLiga 5
