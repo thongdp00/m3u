@@ -857,10 +857,7 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="ttqt-nova-sport-2" tvg-name="NOVA SPORT 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-2-564.png" group-title="Thể thao quốc tế",NOVA SPORT 2
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="ttqt-euro-sport-1" tvg-name="EURO SPORT 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-eurosport-1-411.png" group-title="Thể thao quốc tế",EURO SPORT 1
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="ttqt-euro-sport-2" tvg-name="EURO SPORT 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-eurosport-2-412.png" group-title="Thể thao quốc tế",EURO SPORT 2
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
 #EXTINF:-1 tvg-id="ttqt-cbs-sport-network" tvg-name="CBS SPORT NETWORK" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",CBS SPORT NETWORK
 https://livesport.io.vn/ok/vip1.php?id=cbssn
 #EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO
