@@ -806,16 +806,15 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTINF:-1 tvg-id="ttqt-prima-sport-5" tvg-name="PRIMA SPORT 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-prima-tv-2761.png" group-title="Thể thao quốc tế",PRIMA SPORT 5
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
-#EXTINF:-1 tvg-id="ttqt-dazn-1" tvg-name="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="Thể thao quốc tế",DAZN 1
-https://livesport.io.vn/ok/apo.php?id=ele11
-#EXTINF:-1 tvg-id="ttqt-dazn-2" tvg-name="DAZN 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="Thể thao quốc tế",DAZN 2
-https://livesport.io.vn/ok/apo.php?id=ele2
-#EXTINF:-1 tvg-id="ttqt-dazn-3" tvg-name="DAZN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="Thể thao quốc tế",DAZN 3
-https://livesport.io.vn/ok/apo.php?id=ele3
-#EXTINF:-1 tvg-id="ttqt-dazn-4" tvg-name="DAZN 4" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="Thể thao quốc tế",DAZN 4
-https://livesport.io.vn/ok/smart.php?id=ele4
-#EXTINF:-1 tvg-id="ttqt-dazn-5" tvg-name="DAZN 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể thao quốc tế",DAZN 5
-https://livesport.io.vn/ok/apo.php?id=ele5
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 3 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324972
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 4(Liverpool) 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 5(MUTV)
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324970
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 1 
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324974
+
 #EXTINF:-1 tvg-id="ttqt-premier-sports-1-live" tvg-name="PREMIER SPORTS 1 (Live)" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1 (Live)
 https://livesport.io.vn/ok/stalkvip.php?id=pre1
 #EXTINF:-1 tvg-id="ttqt-premier-sports-2-live" tvg-name="PREMIER SPORTS 2 (Live)" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2 (Live)
