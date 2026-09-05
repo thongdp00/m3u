@@ -889,24 +889,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="filmrise-anime" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/FilmRise-Anime.png" group-title="Quốc Tế",FilmRise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="mr-bean-anime" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/mr_bean.png" group-title="Quốc Tế",Mr. Bean Anime
-https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pbs-kids" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png" group-title="Quốc Tế",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
-
-#EXTINF:-1 tvg-id="pbs-kids-alaska" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png" group-title="Quốc Tế",PBS Kids Alaska
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-
-#EXTINF:-1 tvg-id="pbs-kids-mountain" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png" group-title="Quốc Tế",PBS Kids Mountain
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-
-#EXTINF:-1 tvg-id="pbs-kids-pacific" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/PBS_Kids.png" group-title="Quốc Tế",PBS Kids Pacific
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-
-#EXTINF:-1 tvg-id="tom-and-jerry" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tom.png" group-title="Quốc Tế",Tom And Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/con-ke-ba-nghe.jpg" group-title="Phim truyện", Con Kể Ba Nghe
 https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg" group-title="Phim truyện", Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (Vietsub)
