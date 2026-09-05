@@ -169,23 +169,20 @@ https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://vietanhtv.id.vn/logo/htv1.png" group-title="HTV",HTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=190
 
 #EXTINF:-1 tvg-id="htv2-hd" tvg-logo="https://vietanhtv.id.vn/logo/htv2.png" group-title="HTV",HTV2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png" group-title="HTV",HTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 
 #EXTINF:-1 tvg-id="htvkey"  tvg-logo="https://vietanhtv.id.vn/logo/htvkey.png" group-title="HTV", HTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 
 #EXTINF:-1 tvg-id="htv5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV5.jpg" group-title="HTV",HTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -652,8 +649,8 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1788615558&token=7414df04ff72d30d503cf71ab29f501b
 
 #EXTINF:-1 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png", You TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1788615558&token=be169efe823d2e52ee8860cb4c902bab
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-logo=https://s.imgexpress.net/9c798a235a1d518a718287c7ecdc47613a2951faba1c6362e826540abf1736a1.png " group-title="Thể thao quốc tế", , Sky Sport EPL
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523 
 
@@ -972,7 +969,10 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 
 #EXTINF:-1 tvg-id="tom-and-jerry" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tom.png" group-title="Quốc Tế",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/con-ke-ba-nghe.jpg" group-title="Phim truyện", Con Kể Ba Nghe
+https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg" group-title="Phim truyện", Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (Vietsub)
+https://v7.kkphimplayer7.com/20260828/lfE5hjEB/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="phim-bau-vat-troi-cho" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/22/bc4677df/bc4677df-dbcd-4a57-844b-390414aa1778_640_360.jpg" group-title="Phim truyện",Báu Vật Trời Cho
 https://v7.kkphimplayer7.com/20260617/QgEs8NDH/index.m3u8
 
