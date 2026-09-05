@@ -659,8 +659,8 @@ http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523
 
 #EXTINF:-1 tvg-id="ttqt-unite8-sport-2" tvg-name="UNITE8 SPORT 2" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2
 https://livesport.io.vn/ok/stalkvip.php?id=uni2
-#EXTINF:-1 tvg-id="ttqt-unite8-sport-1b" tvg-name="UNITE8 SPORT 1B" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",UNITE8 SPORT 1B
-https://livesport.io.vn/ok/vip1.php?id=uni1
+#EXTINF:-1 tvg-id="ttqt-unite8-sport-1" tvg-name="UNITE8 SPORT 1" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",UNITE8 SPORT 1
+https://livesport.io.vn/ok/stalkvip.php?id=uni1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Thể thao quốc tế", Canal+ Foot
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
@@ -710,8 +710,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030813
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,Sky Sports Football 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
 
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/276279.jpg" group-title="Thể thao quốc tế",  Tyc Sport Argentina
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1090606&extension=ts&play_token=UU20nTSWow
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png"" group-title="Thể thao quốc tế",   MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 
