@@ -654,20 +654,13 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1788615558&token=7414df04
 #EXTINF:-1 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png", You TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1788615558&token=be169efe823d2e52ee8860cb4c902bab
-
-#EXTINF:- 1 tvg-logo="https://go4.pw/UK/skypre.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",, Sky Sports Premier League 
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17285
 #EXTINF:-1 tvg-logo=https://s.imgexpress.net/9c798a235a1d518a718287c7ecdc47613a2951faba1c6362e826540abf1736a1.png " group-title="Thể thao quốc tế", , Sky Sport EPL
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523 
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.1s" gau-resolution="1280x720" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,NOW SPORTS 1
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
 
 #EXTINF:-1 tvg-id="ttqt-unite8-sport-2" tvg-name="UNITE8 SPORT 2" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2
 https://livesport.io.vn/ok/stalkvip.php?id=uni2
 #EXTINF:-1 tvg-id="ttqt-unite8-sport-1b" tvg-name="UNITE8 SPORT 1B" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",UNITE8 SPORT 1B
 https://livesport.io.vn/ok/vip1.php?id=uni1
-#EXTINF:-1 tvg-id="ttqt-espn-deportes-live" tvg-name="ESPN DEPORTES (Live)" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="Thể thao quốc tế",ESPN DEPORTES (Live)
-https://livesport.io.vn/ok/vip1.php?id=espndeport
 
 #EXTINF:-1 tvg-id="ttqt-tsn-1" tvg-name="TSN 1" tvg-logo="https://livesport.io.vn/logo/sport/tsn1.png" group-title="Thể thao quốc tế",TSN 1
 https://livesport.io.vn/ok/vip1.php?id=tsn1
@@ -683,8 +676,7 @@ https://livesport.io.vn/ok/vip1.php?id=tsn5
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1  tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png" group-title="Thể thao quốc tế", Max Sport 4 
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,NOW SPORTS(EPL) 
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
+
 #EXTINF:-1  tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",STAR SPORTS SELECT 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",STAR SPORTS SELECT 2 
