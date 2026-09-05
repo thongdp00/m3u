@@ -659,16 +659,6 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1788615558&token=be169efe
 https://livesport.io.vn/ok/vip1.php?id=skymain
 #EXTINF:-1 tvg-id="ttqt-sky-sports-football" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://livesport.io.vn/logo/sport/sfoot.png" group-title="Thể thao quốc tế",SKY SPORTS FOOTBALL
 https://livesport.io.vn/ok/vip1.php?id=skyfoot
-#EXTINF:-1 tvg-id="ttqt-sky-sports-f1" tvg-name="SKY SPORTS F1" tvg-logo="https://livesport.io.vn/logo/sport/sf1.png" group-title="Thể thao quốc tế",SKY SPORTS F1
-https://livesport.io.vn/ok/vip1.php?id=skyf1
-#EXTINF:-1 tvg-id="ttqt-sky-sports-golf" tvg-name="SKY SPORTS GOLF" tvg-logo="https://livesport.io.vn/logo/sport/sgolf.png" group-title="Thể thao quốc tế",SKY SPORTS GOLF
-https://livesport.io.vn/ok/vip1.php?id=skygolf
-#EXTINF:-1 tvg-id="ttqt-sky-sports-news" tvg-name="SKY SPORTS NEWS" tvg-logo="https://livesport.io.vn/logo/sport/snews.png" group-title="Thể thao quốc tế",SKY SPORTS NEWS
-https://livesport.io.vn/ok/vip1.php?id=skynews
-#EXTINF:-1 tvg-id="ttqt-sky-sports-action" tvg-name="SKY SPORTS ACTION" tvg-logo="https://livesport.io.vn/logo/sport/saction.png" group-title="Thể thao quốc tế",SKY SPORTS ACTION
-https://livesport.io.vn/ok/stalkvip.php?id=skyaction
-#EXTINF:-1 tvg-id="ttqt-sky-sports-mix" tvg-name="SKY SPORTS MIX" tvg-logo="https://livesport.io.vn/logo/sport/smix.png" group-title="Thể thao quốc tế",SKY SPORTS MIX
-https://livesport.io.vn/ok/vip1.php?id=skymix
 #EXTINF:-1 tvg-id="ttqt-unite8-sport-2" tvg-name="UNITE8 SPORT 2" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2
 https://livesport.io.vn/ok/stalkvip.php?id=uni2
 #EXTINF:-1 tvg-id="ttqt-sky-bundesliga-1" tvg-name="SKY BUNDESLIGA 1" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",SKY BUNDESLIGA 1
@@ -692,38 +682,8 @@ https://livesport.io.vn/ok/vip1.php?id=tsn5
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
 #EXTINF:-1  tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png" group-title="Thể thao quốc tế", Max Sport 4 
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 1
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/351595
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 2
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/351594
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 3
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/351592
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 5
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/351590
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-b2361110-e2cd-474a-9caf-9873b8db8377.png" group-title="Thể thao quốc tế", Hub Premier 6
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/351589
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Premier Sports 1
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200230
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Premier Sports 3
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200228
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,NOW SPORTS(EPL) 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 1
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246323
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 2
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246324
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 3
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200224
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports 4
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246325
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế", Now Sports
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/339878
 #EXTINF:-1  tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",STAR SPORTS SELECT 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",STAR SPORTS SELECT 2 
@@ -756,12 +716,7 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTINF:-1 tvg-id="ttqt-prima-sport-5" tvg-name="PRIMA SPORT 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-prima-tv-2761.png" group-title="Thể thao quốc tế",PRIMA SPORT 5
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 3 
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324972
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 4(Liverpool) 
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/cytavision.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",CYTAVISION SPORTS 5(MUTV)
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324970
+
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",, ELEVEN SPORTS 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/151547
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,ELEVEN SPORTS 2
