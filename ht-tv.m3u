@@ -651,8 +651,6 @@ https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png", You TV 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
-#EXTINF:-1 tvg-logo=https://s.imgexpress.net/9c798a235a1d518a718287c7ecdc47613a2951faba1c6362e826540abf1736a1.png " group-title="Thể thao quốc tế", , Sky Sport EPL
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523 
 
 #EXTINF:-1 tvg-id="ttqt-unite8-sport-2" tvg-name="UNITE8 SPORT 2" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2
 https://livesport.io.vn/ok/stalkvip.php?id=uni2
@@ -668,8 +666,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=22872
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.7s" gau-resolution="1920x1080" gau-bitrate="Không rõ" group-title="Thể thao quốc tế",STAR SPORTS SELECT 2 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404533
-#EXTINF:-1 tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png" " group-title="Thể thao quốc tế", , Sky Sport 7 
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
+
 #EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/_RUSHSPORTS2.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,RUSH SPORTS 2(Laliga)
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/933436
 
@@ -703,9 +700,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030809
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030811
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,ELEVEN SPORTS 4 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030813
-
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ" " group-title="Thể thao quốc tế",,Sky Sports Football 
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png"" group-title="Thể thao quốc tế",   MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
