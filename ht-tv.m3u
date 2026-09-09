@@ -685,8 +685,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11494
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149430&extension=ts&play_token=fXPa0MS6uo
 #EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="┃DE┃ SKY SPORT NEWS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="Thể thao quốc tế", SKY SPORT NEWS FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149431&extension=ts&play_token=QjPdKmgdeN
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="┃DE┃ SKY SPORT NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="Thể thao quốc tế", SKY SPORT NEWS HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149457&extension=ts&play_token=xZ5J1wZwN9
 #EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="┃DE┃ SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png" group-title="Thể thao quốc tế", SKY SPORT PREMIER LEAGUE FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1149432&extension=ts&play_token=aAcLB26Tsm
 #EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="┃DE┃ SKY SPORT TENNIS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="Thể thao quốc tế", SKY SPORT TENNIS FHD
