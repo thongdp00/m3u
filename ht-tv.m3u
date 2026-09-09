@@ -880,14 +880,19 @@ http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254463
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254473
 #EXTINF:-1 tvg-id="ch-ukskysportstennisfhd" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://s.imgexpress.net/61e4e03d8bf9f9a36270989ac2e186b0c5492c164ab78ac5ac585eb456dafee4.png" group-title="Thể thao quốc tế",UK: Sky Sports Tennis FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/204853
+#EXTINF:-1 tvg-id="ch-nzskysportselectfhd" tvg-name="Sky Sport Select FHD" tvg-logo="https://s.imgexpress.net/6ba85c357123182372e88148238c055eb0bea7bebbeb97ae6e9d75eacb974a3e.png" group-title="Thể thao quốc tế",Sky Sport Select FHD
+http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48525
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ttqt-tsn-1" tvg-name="TSN 1" tvg-logo="https://livesport.io.vn/logo/sport/tsn1.png" group-title="Thể thao quốc tế",TSN 1
+https://livesport.io.vn/ok/vip1.php?id=tsn1
+#EXTINF:-1 tvg-id="ttqt-tsn-2" tvg-name="TSN 2" tvg-logo="https://livesport.io.vn/logo/sport/tsn2.png" group-title="Thể thao quốc tế",TSN 2
+https://livesport.io.vn/ok/vip1.php?id=tsn2
+#EXTINF:-1 tvg-id="ttqt-tsn-3" tvg-name="TSN 3" tvg-logo="https://livesport.io.vn/logo/sport/tsn3.png" group-title="Thể thao quốc tế",TSN 3
+https://livesport.io.vn/ok/vip1.php?id=tsn3
+#EXTINF:-1 tvg-id="ttqt-tsn-4" tvg-name="TSN 4" tvg-logo="https://livesport.io.vn/logo/sport/tsn4.png" group-title="Thể thao quốc tế",TSN 4
+https://livesport.io.vn/ok/vip1.php?id=tsn4
+#EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
+https://livesport.io.vn/ok/vip1.php?id=tsn5
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
