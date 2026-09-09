@@ -740,8 +740,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=94144
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941444&extension=ts&play_token=nWvWsQ2myA
 #EXTINF:-1 tvg-id="ch-frcanallive4fhd" tvg-name="┃FR┃ CANAL+ LIVE 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR CANAL+ LIVE/CANAL+ LIVE.png" group-title="Thể thao quốc tế", CANAL+ LIVE 4 FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=941445&extension=ts&play_token=Gsi7v2GyQZ
-#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="┃FR┃ CANAL+ CINEMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+ CINEMA.png" group-title="Thể thao quốc tế", CANAL+ CINEMA FHD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=936874&extension=ts&play_token=pnl9k0uNd9
+
 #EXTINF:-1 tvg-id="canalplus.fr" tvg-name="┃FR┃ CANAL+ FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CANAL+.png" group-title="Thể thao quốc tế", CANAL+ FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=936869&extension=ts&play_token=GL6GmFI1wE
 #EXTINF:-1 tvg-id="espn2.nl" tvg-name="┃CANAL+┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="Thể thao quốc tế", CANAL+ ESPN 2 HD
@@ -752,66 +751,14 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084611&extension=ts&play_token=z9g0RCPM0y
 #EXTINF:-1 tvg-id="espn.nl" tvg-name="┃CANAL+┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN.png" group-title="Thể thao quốc tế", CANAL+ ESPN HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084608&extension=ts&play_token=T0AsgMiLCj
-#EXTINF:-1 tvg-id="canalplusaction.nl" tvg-name="┃CANAL+┃ CANAL+ ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/CANAL+ ACTION.png" group-title="Thể thao quốc tế", CANAL+ CANAL+ ACTION
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084605&extension=ts&play_token=aWPka4wzJb
-#EXTINF:-1 tvg-id="ch-canalcanalaction2" tvg-name="┃CANAL+┃ CANAL+ ACTION 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/CANAL+ ACTION 2.png" group-title="Thể thao quốc tế", CANAL+ CANAL+ ACTION 2
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084606&extension=ts&play_token=jYhQbqMT4T
-#EXTINF:-1 tvg-id="film1action.nl" tvg-name="┃CANAL+┃ FILM1 ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/FILM1 ACTION.png" group-title="Thể thao quốc tế", CANAL+ FILM1 ACTION HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084665&extension=ts&play_token=qqQuoOtI69
-#EXTINF:-1 tvg-id="film1drama.nl" tvg-name="┃CANAL+┃ FILM1 DRAMA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/FILM1 DRAMA.png" group-title="Thể thao quốc tế", CANAL+ FILM1 DRAMA HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084667&extension=ts&play_token=xaZ24B4hlw
-#EXTINF:-1 tvg-id="film1family.nl" tvg-name="┃CANAL+┃ FILM1 FAMILY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/FILM1 FAMILY.png" group-title="Thể thao quốc tế", CANAL+FILM1 FAMILY HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084666&extension=ts&play_token=zIhTTY8suV
 #EXTINF:-1 tvg-id="film1premiere.nl" tvg-name="┃CANAL+┃ FILM1 PREMIERE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/FILM1 PREMIERE.png" group-title="Thể thao quốc tế", CANAL+ FILM1 PREMIERE HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084664&extension=ts&play_token=1bGryDmRvP
-#EXTINF:-1 tvg-id="ch-canalfilmboxhd" tvg-name="┃CANAL+┃ FILMBOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/FILMBOX.png" group-title="Thể thao quốc tế", CANAL+ FILMBOX HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084668&extension=ts&play_token=cX7hGhf9Ul
 #EXTINF:-1 tvg-id="ch-canalziggosport1hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 1 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084671&extension=ts&play_token=uHZFvBU57Y
 #EXTINF:-1 tvg-id="ch-canalziggosport2hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="Thể thao quốc tế", CANAL+ZIGGO SPORT 2 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084670&extension=ts&play_token=8vBq3UIzWW
 #EXTINF:-1 tvg-id="ch-canalziggosport6hd" tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="Thể thao quốc tế", CANAL+ ZIGGO SPORT 6 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice1hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 1 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942020&extension=ts&play_token=PcSvPQHhSM
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice2hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 2 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942019&extension=ts&play_token=5pbYmftS3J
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice3hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 3 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942018&extension=ts&play_token=tEocQ42lTQ
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice4hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 4 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942017&extension=ts&play_token=EgO8wmHbtP
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice5hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 5 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942016&extension=ts&play_token=NxN959uxZn
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice6hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 6 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942015&extension=ts&play_token=Jxu5OWSBNe
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice7hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 7 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942014&extension=ts&play_token=v7tEmvmt3Z
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice8hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 8 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942013&extension=ts&play_token=6XVQ8JfmfL
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice9hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 9 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942012&extension=ts&play_token=WWmp8fZcjY
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice10hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 10 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942011&extension=ts&play_token=edWlSM7e1b
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice11hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 11 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942010&extension=ts&play_token=0uMNuFI5Sj
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice12hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 12 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942009&extension=ts&play_token=TP0ipghICw
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice13hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế",CANAL+ BOXOFFICE 13 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942008&extension=ts&play_token=CqOiJBPtXn
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice14hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế",CANAL+ BOXOFFICE 14 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942007&extension=ts&play_token=WkvNWll1ys
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice15hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế",CANAL+ BOXOFFICE 15 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942006&extension=ts&play_token=I3pmstFOMg
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice16hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 16 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942005&extension=ts&play_token=YURONmn9WB
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice17hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế", CANAL+ BOXOFFICE 17 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942004&extension=ts&play_token=1pEfAVqjGQ
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice18hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế",CANAL+ BOXOFFICE 18 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942003&extension=ts&play_token=xzvvQVx3MK
-#EXTINF:-1 tvg-id="ch-frcanalboxoffice19hd" tvg-name="┃FR┃ CANAL+ BOXOFFICE 19 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế",CANAL+ BOXOFFICE 19 HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942002&extension=ts&play_token=h1oJXK9Q23
-#EXTINF:-1 tvg-id="ch-frcanalboxofficeinfohd" tvg-name="┃FR┃ CANAL+ BOXOFFICE INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD CANAL+ BOXOFFICE/CANAL+ BOXOFFICE.png" group-title="Thể thao quốc tế",CANAL+ BOXOFFICE INFO HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=942021&extension=ts&play_token=OKk5JX0zxr
 #EXTINF:-1 tvg-id="ch-vipstarsportsselect1fhd" tvg-name="VIP - STAR SPORTS SELECT 1 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" group-title="Thể thao quốc tế",STAR SPORTS SELECT 1 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 #EXTINF:-1 tvg-id="ch-vipstarsportsselect2hd" tvg-name="VIP - STAR SPORTS SELECT 2 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="Thể thao quốc tế",STAR SPORTS SELECT 2 HD
@@ -1241,40 +1188,6 @@ https://v7.kkphimplayer7.com/20260820/QT327Pkh/3500kb/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/anh-hung.jpg" group-title="Phim truyện",, Anh Hùng
 https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png group-title="Phim truyện",, 360 Phim Việt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=phim-viet
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png group-title="Phim truyện",, 360 Phim Âu Mỹ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=phim-au-my
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png group-title="Phim truyện",, 360 Phim Hoa Ngữ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png group-title="Phim truyện",, 360 Hành Động Châu Á
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png group-title="Phim truyện",, 360 K-Drama
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-k-drama
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png group-title="Phim truyện",, 360 Hài - Tình Cảm
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png group-title="Phim truyện",, 360 Phim Kinh Điển
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png group-title="Phim truyện",, 360 Anime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-anime
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_640_360.png group-title="Phim truyện",, 360 Thiếu Nhi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
-#EXTINF:-1 tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png" group-title="Phim truyện",, 360 C1 Châu Âu
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
-#EXTINF:-1 tvg-logo=https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png group-title="Phim truyện",, 360 C2 Châu Âu
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
-
 
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
