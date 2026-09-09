@@ -654,6 +654,7 @@ https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png", YouTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
+
 #EXTINF:-1 tvg-id="ch-ukhubpremier1fhd" tvg-name="┃UK┃ HUB PREMIER 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế",HUB PREMIER 1 FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1314077&extension=ts&play_token=LgvQok74q6
 #EXTINF:-1 tvg-id="ch-ukhubpremier24kuhd" tvg-name="┃UK┃ HUB PREMIER 2 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="Thể thao quốc tế", HUB PREMIER 2 4K UHD
@@ -766,8 +767,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404533
 #EXTINF:-1 tvg-id="ch-usfubosportsxtrafhd" tvg-name="FUBO SPORTS XTRA FHD" tvg-logo="https://go4.pw/USA/fuboo.png" group-title="Thể thao quốc tế",FUBO SPORTS XTRA FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325608
-#EXTINF:-1 tvg-id="ch-uknowhknowsports4k616" tvg-name="UK - NOW HK NOW SPORTS 4K 616" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 4K 
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
 #EXTINF:-1 tvg-id="ch-uknowhknowsports4k617" tvg-name="UK - NOW HK NOW SPORTS 4K 617" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 4K
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
 #EXTINF:-1 tvg-id="ch-ptelevensports2uhd" tvg-name="PT - ELEVEN SPORTS 2 UHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="Thể thao quốc tế", ELEVEN SPORTS 2 UHD
@@ -794,7 +793,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324972
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324971
 #EXTINF:-1 tvg-id="ch-grcytavisionsports5hd" tvg-name="GR - CYTAVISION SPORTS 5 HD" tvg-logo="https://go4.pw/EUROPE/cytavision.png" group-title="Thể thao quốc tế",CYTAVISION SPORTS 5 HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/324970
-#EXTINF:-1 tvg-id="ch-argtntsportshd" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ ◉" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" group-title="Thể thao quốc tế ",TNT SPORTS HD 
+#EXTINF:-1 tvg-id="ch-argtntsportshd" tvg-name="ARG - TNT SPORTS HD ᵛᶦᵖ ◉" tvg-logo="https://go4.pw/LATINO/MEXICO/TNT.png" group-title="Thể thao quốc tế ",TNT SPORTS PREMIUM
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 #EXTINF:-1 tvg-id="ch-carrushsports2fhd" tvg-name="CAR - RUSH SPORTS 2 FHD" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSHSPORTS2.png" group-title="Thể thao quốc tế ",RUSH SPORTS 2 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/933436
@@ -804,81 +803,45 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320905
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320903
 #EXTINF:-1 tvg-id="ch-aradsportspremium2uhd" tvg-name="AR - AD SPORTS PREMIUM 2 UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="Thể thao quốc tế",AD SPORTS PREMIUM 2 UHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320904
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png"" group-title="Thể thao quốc tế",   MUTV
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV English
-http://88.212.15.19/live/real_madrid_tv/index.m3u8
-#EXTINF:-1 tvg-id="ch-ukepl14k" tvg-name="┃UK┃ EPL 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/EPL 1.png" group-title="Thể thao quốc tế", EPL 1 4K
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1313248&extension=ts&play_token=OwoEIdz9lT
-#EXTINF:-1 tvg-id="ch-ukepl24k" tvg-name="┃UK┃ EPL 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/EPL 2.png" group-title="Thể thao quốc tế", EPL 2 4K
+#EXTINF:-1 tvg-id="ch-uknowhknowsports4k616" tvg-name="UK - NOW HK NOW SPORTS 4K 616" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 4K 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1313247&extension=ts&play_token=815D3UXYEZ
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="┃UK┃ MUTV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="Thể thao quốc tế",MUTV FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1312824&extension=ts&play_token=nInrrx8zTB
 #EXTINF:-1 tvg-id="tntsportsultimateuhd.uk" tvg-name="┃UK┃ TNT SPORTS ULTIMATE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="Thể thao quốc tế",TNT SPORTS ULTIMATE 4K
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1174213&extension=ts&play_token=M0SHkaq0DS
-#EXTINF:-1 tvg-id="ch-uktntsports2fhd" tvg-name="UK: TNT Sports 2 FHD" tvg-logo="https://s.imgexpress.net/8e6dcd2daaa629c69212a0bdb3dcc4eca770ef5699e47116b50e923dcffa511e.png" group-title="Thể thao quốc tế",UK: TNT Sports 2 FHD
+#EXTINF:-1 tvg-id="ch-uktntsports2fhd" tvg-name="UK: TNT Sports 2 FHD" tvg-logo="https://s.imgexpress.net/8e6dcd2daaa629c69212a0bdb3dcc4eca770ef5699e47116b50e923dcffa511e.png" group-title="Thể thao quốc tế",TNT Sports 2 FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830068&extension=ts&play_token=LXvfdXeLNK
-#EXTINF:- #EXTINF:-1 tvg-id="ch-uktntsports1fhd50fps51" tvg-name="UK: TNT Sports 1 FHD " tvg-logo="https://s.imgexpress.net/e0d735811856213cd802258360117e34f7a128ce6f67f25adb1b77fe4ca99ad7.png" group-title="Thể thao quốc tế",UK: TNT Sports 1 FHD
+#EXTINF:- #EXTINF:-1 tvg-id="ch-uktntsports1fhd50fps51" tvg-name="UK: TNT Sports 1 FHD " tvg-logo="https://s.imgexpress.net/e0d735811856213cd802258360117e34f7a128ce6f67f25adb1b77fe4ca99ad7.png" group-title="Thể thao quốc tế",TNT Sports 1 FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830067&extension=ts&play_token=E4wrcN6sBy
 #EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830066&extension=ts&play_token=o6zOQAEl97
-#EXTINF:-1 tvg-id="ch-uktntsports3fhd" tvg-name="UK: TNT Sports 3 FHD" tvg-logo="https://s.imgexpress.net/52ef48580f39ed3c4f84cf1a72afbe7e395c23b1643b2e5cd958230877911ab4.png" group-title="Thể thao quốc tế",UK: TNT Sports 3 FHD
+#EXTINF:-1 tvg-id="ch-uktntsports3fhd" tvg-name="UK: TNT Sports 3 FHD" tvg-logo="https://s.imgexpress.net/52ef48580f39ed3c4f84cf1a72afbe7e395c23b1643b2e5cd958230877911ab4.png" group-title="Thể thao quốc tế",TNT Sports 3 FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830064&extension=ts&play_token=go1S5CkZ0Q
-#EXTINF:-1 tvg-id="ch-uktntsports4fhd" tvg-name="UK: TNT Sports 4 FHD" tvg-logo="https://s.imgexpress.net/8f64b234d41555159288bb77d2d0b6e7cee12f50527222b6aaf6bf42c879ba42.png" group-title="Thể thao quốc tế",UK: TNT Sports 4 FHD
+#EXTINF:-1 tvg-id="ch-uktntsports4fhd" tvg-name="UK: TNT Sports 4 FHD" tvg-logo="https://s.imgexpress.net/8f64b234d41555159288bb77d2d0b6e7cee12f50527222b6aaf6bf42c879ba42.png" group-title="Thể thao quốc tế",TNT Sports 4 FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7058
 
 
-#EXTINF:-1 tvg-id="ch-hknowpremiersports1fhd" tvg-name="HK: Now Premier Sports 1 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 1 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200230
-#EXTINF:-1 tvg-id="ch-hknowpremiersports2fhd" tvg-name="HK: Now Premier Sports 2 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 2 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200229
-#EXTINF:-1 tvg-id="ch-hknowpremiersports3fhd" tvg-name="HK: Now Premier Sports 3 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 3 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200228
-#EXTINF:-1 tvg-id="ch-hknowpremiersports4fhd" tvg-name="HK: Now Premier Sports 4 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 4 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200227
-#EXTINF:-1 tvg-id="ch-hknowpremiersports5fhd" tvg-name="HK: Now Premier Sports 5 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 5 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200226
-#EXTINF:-1 tvg-id="ch-hknowpremiersports6fhd" tvg-name="HK: Now Premier Sports 6 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 6 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200225
-#EXTINF:-1 tvg-id="ch-hknowpremiersports7fhd" tvg-name="HK: Now Premier Sports 7 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Premier Sports 7 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246329
-#EXTINF:-1 tvg-id="ch-hknowsports1fhd" tvg-name="HK: Now Sports 1 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 1 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246323
-#EXTINF:-1 tvg-id="ch-hknowsports2fhd" tvg-name="HK: Now Sports 2 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 2 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246324
-#EXTINF:-1 tvg-id="ch-hknowsports3fhd" tvg-name="HK: Now Sports 3 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 3 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/200224
-#EXTINF:-1 tvg-id="ch-hknowsports4fhd" tvg-name="HK: Now Sports 4 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 4 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246325
-#EXTINF:-1 tvg-id="ch-hknowsports4k" tvg-name="HK: Now Sports 4K" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 4K
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/339878
-#EXTINF:-1 tvg-id="ch-hknowsports5fhd" tvg-name="HK: Now Sports 5 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 5 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246326
-#EXTINF:-1 tvg-id="ch-hknowsports6fhd" tvg-name="HK: Now Sports 6 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 6 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246327
-#EXTINF:-1 tvg-id="ch-hknowsports7fhd" tvg-name="HK: Now Sports 7 FHD" tvg-logo="https://cdn.phototourl.com/free/2026-09-02-11b0bb82-81b6-4c8c-bd29-93adacefcd8f.jpg" group-title="Thể thao quốc tế",HK: Now Sports 7 FHD
-http://royallivetv.club:80/gTTUesHD/YWRzphB913/246328
 #EXTINF:-1 tvg-id="ch-nzskysport7fhd" tvg-name="Sky Sport 7 FHD" tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png" group-title="Thể thao quốc tế",Sky Sport 7 FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
 #EXTINF:-1 tvg-id="ch-nzskysportpremierleaguefhd" tvg-name="Sky Sport Premier League FHD" tvg-logo="https://s.imgexpress.net/9c798a235a1d518a718287c7ecdc47613a2951faba1c6362e826540abf1736a1.png" group-title="Thể thao quốc tế",Sky Sport Premier League FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48523
-#EXTINF:-1 tvg-id="ch-ukskysportsfhd50fps51" tvg-name="UK: Sky Sports + FHD " tvg-logo="https://i.ibb.co/twmrnfc9/ezgif-57a4c4c95d887c.png" group-title="Thể thao quốc tế",UK: Sky Sports + FHD 
+#EXTINF:-1 tvg-id="ch-ukskysportsfhd50fps51" tvg-name="UK: Sky Sports + FHD " tvg-logo="https://i.ibb.co/twmrnfc9/ezgif-57a4c4c95d887c.png" group-title="Thể thao quốc tế",Sky Sports + FHD 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254465
-#EXTINF:-1 tvg-id="ch-ukskysportsarena" tvg-name="UK: Sky Sports Arena" tvg-logo="https://s.imgexpress.net/d7cb0eef9703a1fa61db26fa29fe65d00e381c87e0f5cb3bac5f18cca17dc403.png" group-title="Thể thao quốc tế",UK: Sky Sports Arena
+#EXTINF:-1 tvg-id="ch-ukskysportsarena" tvg-name="UK: Sky Sports Arena" tvg-logo="https://s.imgexpress.net/d7cb0eef9703a1fa61db26fa29fe65d00e381c87e0f5cb3bac5f18cca17dc403.png" group-title="Thể thao quốc tế",Sky Sports Arena
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7023
-#EXTINF:-1 tvg-id="ch-ukskysportsf1fhd50fps51" tvg-name="UK: Sky Sports F1 FHD " tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="Thể thao quốc tế",UK: Sky Sports F1 FHD 
+#EXTINF:-1 tvg-id="ch-ukskysportsf1fhd50fps51" tvg-name="UK: Sky Sports F1 FHD " tvg-logo="https://s.imgexpress.net/e574c92e57bfd3fe3d4f74eafcc398bda269c5509f63ea01321903a3cd99fe37.png" group-title="Thể thao quốc tế",Sky Sports F1 FHD 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254469
-#EXTINF:-1 tvg-id="ch-ukskysportsfootballfhd50fps51" tvg-name="UK: Sky Sports Football FHD " tvg-logo="https://s.imgexpress.net/a338edc9b09ea4aecd5a614c8aef4b75d98093db559d641d93dc50063a635360.png" group-title="Thể thao quốc tế",UK: Sky Sports Football FHD 
+#EXTINF:-1 tvg-id="ch-ukskysportsfootballfhd50fps51" tvg-name="UK: Sky Sports Football FHD " tvg-logo="https://s.imgexpress.net/a338edc9b09ea4aecd5a614c8aef4b75d98093db559d641d93dc50063a635360.png" group-title="Thể thao quốc tế",Sky Sports Football FHD 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254472
-#EXTINF:-1 tvg-id="ch-ukskysportsgolffhd" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="https://s.imgexpress.net/de71abef5451e8f95de5a2dd4403c76a08a8372ac3dba9874f0584d003448bb4.png" group-title="Thể thao quốc tế",UK: Sky Sports Golf FHD
+#EXTINF:-1 tvg-id="ch-ukskysportsgolffhd" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="https://s.imgexpress.net/de71abef5451e8f95de5a2dd4403c76a08a8372ac3dba9874f0584d003448bb4.png" group-title="Thể thao quốc tế",Sky Sports Golf FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7030
-#EXTINF:-1 tvg-id="ch-ukskysportsmaineventfhd" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="https://s.imgexpress.net/79abf3692e004ad19fd067926b0ce783cee374387b057dcf375dd9a7f027d60d.png" group-title="Thể thao quốc tế",UK: Sky Sports Main Event FHD
+#EXTINF:-1 tvg-id="ch-ukskysportsmaineventfhd" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="https://s.imgexpress.net/79abf3692e004ad19fd067926b0ce783cee374387b057dcf375dd9a7f027d60d.png" group-title="Thể thao quốc tế",Sky Sports Main Event FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7015
-#EXTINF:-1 tvg-id="ch-ukskysportsmixfhd50fps51" tvg-name="UK: Sky Sports Mix FHD " tvg-logo="https://s.imgexpress.net/4b98b381c3faf1d27f64686c1289e7ced231ec646bf28f3f79c2b27540e0e923.png" group-title="Thể thao quốc tế",UK: Sky Sports Mix FHD 
+#EXTINF:-1 tvg-id="ch-ukskysportsmixfhd50fps51" tvg-name="UK: Sky Sports Mix FHD " tvg-logo="https://s.imgexpress.net/4b98b381c3faf1d27f64686c1289e7ced231ec646bf28f3f79c2b27540e0e923.png" group-title="Thể thao quốc tế",Sky Sports Mix FHD 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254463
-#EXTINF:-1 tvg-id="ch-ukskysportspremierleaguefhd50fps51" tvg-name="UK: Sky Sports Premier League FHD " tvg-logo="https://s.imgexpress.net/88589b6f7b2112c7dcaeb58a545a0264446dafa32416c6817d23e40653bc0185.png" group-title="Thể thao quốc tế",UK: Sky Sports Premier League FHD 
+#EXTINF:-1 tvg-id="ch-ukskysportspremierleaguefhd50fps51" tvg-name="UK: Sky Sports Premier League FHD " tvg-logo="https://s.imgexpress.net/88589b6f7b2112c7dcaeb58a545a0264446dafa32416c6817d23e40653bc0185.png" group-title="Thể thao quốc tế",Sky Sports Premier League FHD 
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/254473
-#EXTINF:-1 tvg-id="ch-ukskysportstennisfhd" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://s.imgexpress.net/61e4e03d8bf9f9a36270989ac2e186b0c5492c164ab78ac5ac585eb456dafee4.png" group-title="Thể thao quốc tế",UK: Sky Sports Tennis FHD
+#EXTINF:-1 tvg-id="ch-ukskysportstennisfhd" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://s.imgexpress.net/61e4e03d8bf9f9a36270989ac2e186b0c5492c164ab78ac5ac585eb456dafee4.png" group-title="Thể thao quốc tế",Sky Sports Tennis FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/204853
 #EXTINF:-1 tvg-id="ch-nzskysportselectfhd" tvg-name="Sky Sport Select FHD" tvg-logo="https://s.imgexpress.net/6ba85c357123182372e88148238c055eb0bea7bebbeb97ae6e9d75eacb974a3e.png" group-title="Thể thao quốc tế",Sky Sport Select FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48525
