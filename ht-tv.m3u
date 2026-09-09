@@ -835,7 +835,16 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320903
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320904
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png"" group-title="Thể thao quốc tế",   MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-
+#EXTINF:-1 tvg-id="Unite8Sports1.in@SD" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Thể thao quốc tế",Unite8 Sports 1
+http://59.103.38.46:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports2.in@SD" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Thể thao quốc tế",Unite8 Sports 2
+http://59.103.38.46:8000/play/a126/index.m3u8
+#EXTINF:-1 tvg-id="ZiggoSport5.nl@HD" tvg-name="Ziggo Sport 5 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Thể thao quốc tế",Ziggo Sport 5 
+http://145.239.5.177/349/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Thể thao quốc tế",Real Madrid TV English
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Thể thao quốc tế",Eurosport 4K 
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
