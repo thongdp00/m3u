@@ -742,7 +742,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404533
 #EXTINF:-1 tvg-id="ch-usfubosportsxtrafhd" tvg-name="FUBO SPORTS XTRA FHD" tvg-logo="https://go4.pw/USA/fuboo.png" group-title="Thể thao quốc tế",FUBO SPORTS XTRA FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325608
 #EXTINF:-1 tvg-id="ch-uknowhknowsports4k617" tvg-name="UK - NOW HK NOW SPORTS 4K 617" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 1 4K
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438866
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1301200
 #EXTINF:-1 tvg-id="ch-ptelevensports2uhd" tvg-name="PT - ELEVEN SPORTS 2 UHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="Thể thao quốc tế", ELEVEN SPORTS 2 UHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1030809
 #EXTINF:-1 tvg-id="ch-ptelevensports3uhd" tvg-name="PT - ELEVEN SPORTS 3 UHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="Thể thao quốc tế",ELEVEN SPORTS 3 UHD
@@ -793,7 +793,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=83006
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830064&extension=ts&play_token=go1S5CkZ0Q
 #EXTINF:-1 tvg-id="ch-uktntsports4fhd" tvg-name="UK: TNT Sports 4 FHD" tvg-logo="https://s.imgexpress.net/8f64b234d41555159288bb77d2d0b6e7cee12f50527222b6aaf6bf42c879ba42.png" group-title="Thể thao quốc tế",TNT Sports 4 FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7058
-
+	
 
 #EXTINF:-1 tvg-id="ch-nzskysport7fhd" tvg-name="Sky Sport 7 FHD" tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png" group-title="Thể thao quốc tế",Sky Sport 7 FHD
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
@@ -830,6 +830,20 @@ https://livesport.io.vn/ok/vip1.php?id=tsn3
 https://livesport.io.vn/ok/vip1.php?id=tsn4
 #EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
 https://livesport.io.vn/ok/vip1.php?id=tsn5
+#EXTINF:-1 tvg-id="ttqt-unite8-sport-1b" tvg-name="UNITE8 SPORT 1B" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",UNITE8 SPORT 1B
+https://livesport.io.vn/ok/vip1.php?id=uni1
+#EXTINF:-1 tvg-id="ttqt-unite8-sport-2b" tvg-name="UNITE8 SPORT 2B" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2B
+https://livesport.io.vn/ok/vip1.php?id=uni2
+#EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Quốc Tế",PLAY SPORTS 2 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
