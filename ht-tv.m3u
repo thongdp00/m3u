@@ -711,7 +711,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=11587
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1158716&extension=ts&play_token=Ew8xTnAoGq
 #EXTINF:-1 tvg-id="ch-itdaznseriea4fhd" tvg-name="┃IT┃ DAZN SERIE A 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/DAZN/DAZN.png" group-title="Thể thao quốc tế", DAZN SERIE A 4 FHD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1158717&extension=ts&play_token=NX7RdYWidZ
-
 #EXTINF:-1 tvg-id="espn2.nl" tvg-name="┃CANAL+┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="Thể thao quốc tế", CANAL+ ESPN 2 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084609&extension=ts&play_token=XOFwHrrq4w
 #EXTINF:-1 tvg-id="espn3.nl" tvg-name="┃CANAL+┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 3.png" group-title="Thể thao quốc tế", CANAL+ ESPN 3 HD
@@ -764,8 +763,8 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/197733
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/933436
 #EXTINF:-1 tvg-id="ch-aradsportspremium3uhd" tvg-name="AR - AD SPORTS PREMIUM 3 UHD" tvg-logo="https://go4.pw/ARABE/ad3.png" group-title="Thể thao quốc tế",AD SPORTS PREMIUM 3 UHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320905
-#EXTINF:-1 tvg-id="ch-aradsportspremium1fhd" tvg-name="AR - AD SPORTS PREMIUM 1 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="Thể thao quốc tế",AD SPORTS PREMIUM 1 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/992043
+#EXTINF:-1 tvg-id="ch-aradsportspremium1uhd" tvg-name="AR - AD SPORTS PREMIUM 1 UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="Thể thao quốc tế",AD SPORTS PREMIUM 1 UHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320903
 #EXTINF:-1 tvg-id="ch-aradsportspremium2uhd" tvg-name="AR - AD SPORTS PREMIUM 2 UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="Thể thao quốc tế",AD SPORTS PREMIUM 2 UHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1320904
 #EXTINF:-1 tvg-id="ch-uknowhknowsports4k616" tvg-name="UK - NOW HK NOW SPORTS 4K 616" tvg-logo="https://go4.pw/UK/NOW.png" group-title="Thể thao quốc tế", NOW SPORTS 2 4K 
@@ -825,8 +824,10 @@ https://livesport.io.vn/ok/vip1.php?id=tsn5
 https://livesport.io.vn/ok/vip1.php?id=uni1
 #EXTINF:-1 tvg-id="ttqt-unite8-sport-2b" tvg-name="UNITE8 SPORT 2B" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2B
 https://livesport.io.vn/ok/vip1.php?id=uni2
-#EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Quốc Tế",PLAY SPORTS 2 FHD
+#EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
+#EXTINF:-1 tvg-id="ch-carrushsportsfhd" tvg-name=" RUSH SPORTS FHD" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSH SPORTS .png" group-title="Thể thao quốc tế",RUSH SPORTS FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/983924
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
