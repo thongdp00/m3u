@@ -769,10 +769,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=39455
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
 #EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833700&extension=ts&play_token=DIbbtqyNmq
-#EXTINF:-1 tvg-id="ch-ukrealmadridtvhevcfhd" tvg-name="┃UK┃ REAL MADRID TV HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png" group-title="Thể thao quốc tế",REAL MADRID TV
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1312810&extension=ts&play_token=ytSoI24Hv6
-#EXTINF:-1 tvg-logo=https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png" group-title="Thể thao quốc tế",, Max Sport 4 
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg" group-title="Thể thao quốc tế", Asian Games CH-01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
