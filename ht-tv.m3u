@@ -757,20 +757,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=83006
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830064&extension=ts&play_token=go1S5CkZ0Q
 #EXTINF:-1 tvg-id="ch-uktntsports4fhd" tvg-name="UK: TNT Sports 4 FHD" tvg-logo="https://s.imgexpress.net/8f64b234d41555159288bb77d2d0b6e7cee12f50527222b6aaf6bf42c879ba42.png" group-title="Thể thao quốc tế",TNT Sports 4
 http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7058
-#EXTINF:-1 tvg-id="ttqt-tsn-1" tvg-name="TSN 1" tvg-logo="https://livesport.io.vn/logo/sport/tsn1.png" group-title="Thể thao quốc tế",TSN 1
-https://livesport.io.vn/ok/vip1.php?id=tsn1
-#EXTINF:-1 tvg-id="ttqt-tsn-2" tvg-name="TSN 2" tvg-logo="https://livesport.io.vn/logo/sport/tsn2.png" group-title="Thể thao quốc tế",TSN 2
-https://livesport.io.vn/ok/vip1.php?id=tsn2
-#EXTINF:-1 tvg-id="ttqt-tsn-3" tvg-name="TSN 3" tvg-logo="https://livesport.io.vn/logo/sport/tsn3.png" group-title="Thể thao quốc tế",TSN 3
-https://livesport.io.vn/ok/vip1.php?id=tsn3
-#EXTINF:-1 tvg-id="ttqt-tsn-4" tvg-name="TSN 4" tvg-logo="https://livesport.io.vn/logo/sport/tsn4.png" group-title="Thể thao quốc tế",TSN 4
-https://livesport.io.vn/ok/vip1.php?id=tsn4
-#EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
-https://livesport.io.vn/ok/vip1.php?id=tsn5
-#EXTINF:-1 tvg-id="ttqt-unite8-sport-1b" tvg-name="UNITE8 SPORT 1B" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",UNITE8 SPORT 1B
-https://livesport.io.vn/ok/vip1.php?id=uni1
-#EXTINF:-1 tvg-id="ttqt-unite8-sport-2b" tvg-name="UNITE8 SPORT 2B" tvg-logo="https://livesport.io.vn/logo/bun.png" group-title="Thể thao quốc tế",UNITE8 SPORT 2B
-https://livesport.io.vn/ok/vip1.php?id=uni2
 #EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
 #EXTINF:-1 tvg-id="ch-carrushsportsfhd" tvg-name=" RUSH SPORTS FHD" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSH SPORTS .png" group-title="Thể thao quốc tế",RUSH SPORTS
