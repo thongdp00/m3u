@@ -747,36 +747,32 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=13132
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1312824&extension=ts&play_token=nInrrx8zTB
 #EXTINF:-1 tvg-id="tntsportsultimateuhd.uk" tvg-name="┃UK┃ TNT SPORTS ULTIMATE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="Thể thao quốc tế",TNT SPORTS ULTIMATE
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1174213&extension=ts&play_token=M0SHkaq0DS
-#EXTINF:-1 tvg-id="ch-uktntsports2fhd" tvg-name="UK: TNT Sports 2 FHD" tvg-logo="https://s.imgexpress.net/8e6dcd2daaa629c69212a0bdb3dcc4eca770ef5699e47116b50e923dcffa511e.png" group-title="Thể thao quốc tế",TNT Sports 2
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830068&extension=ts&play_token=LXvfdXeLNK
-#EXTINF:- #EXTINF:-1 tvg-id="ch-uktntsports1fhd50fps51" tvg-name="UK: TNT Sports 1 FHD " tvg-logo="https://s.imgexpress.net/e0d735811856213cd802258360117e34f7a128ce6f67f25adb1b77fe4ca99ad7.png" group-title="Thể thao quốc tế",TNT Sports 1
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830067&extension=ts&play_token=E4wrcN6sBy
 #EXTINF:-1 tvg-id="ttqt-cbs-sport-gonzalo" tvg-name="CBS SPORT GONZALO" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="Thể thao quốc tế",CBS SPORT GONZALO NETWORK
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830066&extension=ts&play_token=o6zOQAEl97
-#EXTINF:-1 tvg-id="ch-uktntsports3fhd" tvg-name="UK: TNT Sports 3 FHD" tvg-logo="https://s.imgexpress.net/52ef48580f39ed3c4f84cf1a72afbe7e395c23b1643b2e5cd958230877911ab4.png" group-title="Thể thao quốc tế",TNT Sports 3
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=830064&extension=ts&play_token=go1S5CkZ0Q
-#EXTINF:-1 tvg-id="ch-uktntsports4fhd" tvg-name="UK: TNT Sports 4 FHD" tvg-logo="https://s.imgexpress.net/8f64b234d41555159288bb77d2d0b6e7cee12f50527222b6aaf6bf42c879ba42.png" group-title="Thể thao quốc tế",TNT Sports 4
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/7058
 #EXTINF:-1 tvg-id="ch-beplaysports2fhd" tvg-name="PLAY SPORTS 2 FHD" tvg-logo="https://go4.pw/EUROPE/play.png" group-title="Thể thao quốc tế",PLAY SPORTS 2
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
 #EXTINF:-1 tvg-id="ch-carrushsportsfhd" tvg-name=" RUSH SPORTS FHD" tvg-logo="https://go4.pw/CARIBBIEAN/_RUSH SPORTS .png" group-title="Thể thao quốc tế",RUSH SPORTS
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/983924
 #EXTINF:-1 tvg-id="ch-usfubosportsnetworkhd" tvg-name="US - FUBO SPORTS NETWORK HD" tvg-logo="https://go4.pw/USA/FUBOSPORTSnet.png" group-title="Thể thao quốc tế",FUBO SPORTS NETWORK
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/200924
-#EXTINF:-1 tvg-id="ch-uktntsports1hevcraw" tvg-name="┃UK┃ TNT SPORTS 1 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 1 HEVC RAW
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311894&extension=ts&play_token=Gcc8fwuLiD
-#EXTINF:-1 tvg-id="ch-uktntsports2hevcraw" tvg-name="┃UK┃ TNT SPORTS 2 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 2 HEVC RAW
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311895&extension=ts&play_token=gLtOefxYfR
-#EXTINF:-1 tvg-id="ch-uktntsports3hevcraw" tvg-name="┃UK┃ TNT SPORTS 3 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 3 HEVC RAW
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311896&extension=ts&play_token=uwpyCSe8zz
-#EXTINF:-1 tvg-id="ch-uktntsports4hevcraw" tvg-name="┃UK┃ TNT SPORTS 4 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 4 HEVC RAW
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311897&extension=ts&play_token=GagUYYXEYI
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="┃UK┃ SKY SPORTS FOOTBALL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="Thể thao quốc tế",┃UK┃ SKY SPORTS FOOTBALL FHD
+#EXTINF:-1  tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png"group-title="Thể thao quốc tế",TNT Sports 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
+#EXTINF:-1  tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png"group-title="Thể thao quốc tế",TNT Sports 2 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1091517&extension=ts&play_token=zKzxFKTNmb
+#EXTINF:-1  tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png"group-title="Thể thao quốc tế",TNT Sports 3 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png"group-title="Thể thao quốc tế",TNT Sports 4 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="┃UK┃ SKY SPORTS FOOTBALL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="Thể thao quốc tế",SKY SPORTS FOOTBALL
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=394555&extension=ts&play_token=S9sxBpSjx8
-#EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ
+#EXTINF:-1 tvg-id="premiersports1.ie" tvg-name="┃IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833699&extension=ts&play_token=BmazKeTEGt
-#EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ
+#EXTINF:-1 tvg-id="premiersports2.ie" tvg-name="┃IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="Thể thao quốc tế",PREMIER SPORTS 2
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=833700&extension=ts&play_token=DIbbtqyNmq
+#EXTINF:-1 tvg-id="ch-ukrealmadridtvhevcfhd" tvg-name="┃UK┃ REAL MADRID TV HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png" group-title="Thể thao quốc tế",REAL MADRID TV
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1312810&extension=ts&play_token=ytSoI24Hv6
+#EXTINF:-1 tvg-logo=https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png" group-title="Thể thao quốc tế",, Max Sport 4 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
 
 
 
