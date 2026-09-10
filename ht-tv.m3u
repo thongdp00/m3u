@@ -793,8 +793,6 @@ https://livesport.io.vn/ok/vip1.php?id=tsn3
 https://livesport.io.vn/ok/vip1.php?id=tsn4
 #EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
 https://livesport.io.vn/ok/vip1.php?id=tsn5
-#EXTINF:-1 tvg-logo="https://s.imgexpress.net/31a91b36b4686057b6c1eb6fbefd8fd54a3b064bf91aaefa882cbaab9f1b571d.png" group-title="Thể thao quốc tế", Sky Sport 7 
-http://tv-268088.ifiesta.net:80/TV-19603748265481/900212776624/48522
 
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
