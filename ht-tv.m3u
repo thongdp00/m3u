@@ -779,6 +779,16 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/326084
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/983924
 #EXTINF:-1 tvg-id="ch-usfubosportsnetworkhd" tvg-name="US - FUBO SPORTS NETWORK HD" tvg-logo="https://go4.pw/USA/FUBOSPORTSnet.png" group-title="Thể thao quốc tế",FUBO SPORTS NETWORK
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/200924
+#EXTINF:-1 tvg-id="ch-uktntsports1hevcraw" tvg-name="┃UK┃ TNT SPORTS 1 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 1 HEVC RAW
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311894&extension=ts&play_token=Gcc8fwuLiD
+#EXTINF:-1 tvg-id="ch-uktntsports2hevcraw" tvg-name="┃UK┃ TNT SPORTS 2 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 2 HEVC RAW
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311895&extension=ts&play_token=gLtOefxYfR
+#EXTINF:-1 tvg-id="ch-uktntsports3hevcraw" tvg-name="┃UK┃ TNT SPORTS 3 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 3 HEVC RAW
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311896&extension=ts&play_token=uwpyCSe8zz
+#EXTINF:-1 tvg-id="ch-uktntsports4hevcraw" tvg-name="┃UK┃ TNT SPORTS 4 HEVC RAW" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/default.png" group-title="Thể thao quốc tế",┃UK┃ TNT SPORTS 4 HEVC RAW
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1311897&extension=ts&play_token=GagUYYXEYI
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="┃UK┃ SKY SPORTS FOOTBALL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="Thể thao quốc tế",┃UK┃ SKY SPORTS FOOTBALL FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=394555&extension=ts&play_token=S9sxBpSjx8
 #EXTINF:-1  tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/spotv.png" group-title="Quốc Tế",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
