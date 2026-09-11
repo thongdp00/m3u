@@ -726,7 +726,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=10846
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:0E:0F:8E&stream=1084669&extension=ts&play_token=5hH06HWefL
 #EXTINF:-1 tvg-id="ch-vipstarsportsselect1fhd" tvg-name="VIP - STAR SPORTS SELECT 1 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" group-title="Thể thao quốc tế",STAR SPORTS SELECT 1 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404532
-#EXTINF:-1 tvg-id="ch-vipstarsportsselect2hd" tvg-name="VIP - STAR SPORTS SELECT 2 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="Thể thao quốc tế",STAR SPORTS SELECT
+#EXTINF:-1 tvg-id="ch-vipstarsportsselect2hd" tvg-name="VIP - STAR SPORTS SELECT 2 HD" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="Thể thao quốc tế",STAR SPORTS SELECT 2
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404533
 #EXTINF:-1 tvg-id="ch-usfubosportsxtrafhd" tvg-name="FUBO SPORTS XTRA FHD" tvg-logo="https://go4.pw/USA/fuboo.png" group-title="Thể thao quốc tế",FUBO SPORTS XTRA 
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/325608
