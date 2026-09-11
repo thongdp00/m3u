@@ -814,32 +814,32 @@ https://livesport.io.vn/ok/vip1.php?id=tsn3
 https://livesport.io.vn/ok/vip1.php?id=tsn4
 #EXTINF:-1 tvg-id="ttqt-tsn-5" tvg-name="TSN 5" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="Thể thao quốc tế",TSN 5
 https://livesport.io.vn/ok/vip1.php?id=tsn5
-#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Thể thao quốc tế",Eurosport 4K Czechia
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Thể thao quốc tế",Eurosport
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-name="ESPNU HD (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Thể thao quốc tế",ESPNU HD (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-name="ESPNU HD (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Thể thao quốc tế",ESPNU HD 
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo Network (720p)" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Thể thao quốc tế",CBS Sports Golazo Network (720p)
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo Network (720p)" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Thể thao quốc tế",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 https://nl1.nghk.ai/SK3SRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD" tvg-name="Arena Sport Premium 1 BH (1080p)" tvg-logo="https://imgur.com/csv6YsL" group-title="Thể thao quốc tế",Arena Sport Premium 1 BH (1080p)
+#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD" tvg-name="Arena Sport Premium 1 BH (1080p)" tvg-logo="https://imgur.com/csv6YsL" group-title="Thể thao quốc tế",Arena Sport Premium 1 BH 
 https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD" tvg-name="Arena Sport Premium 2 BH (1080p)" tvg-logo="https://imgur.com/ztOmQ7P" group-title="Thể thao quốc tế",Arena Sport Premium 2 BH (1080p)
+#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD" tvg-name="Arena Sport Premium 2 BH (1080p)" tvg-logo="https://imgur.com/ztOmQ7P" group-title="Thể thao quốc tế",Arena Sport Premium 2 BH 
 https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium3BH.ba@HD" tvg-name="Arena Sport Premium 3 BH (720p)" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="Thể thao quốc tế",Arena Sport Premium 3 BH (720p)
+#EXTINF:-1 tvg-id="ArenaSportPremium3BH.ba@HD" tvg-name="Arena Sport Premium 3 BH (720p)" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="Thể thao quốc tế",Arena Sport Premium 3 BH 
 https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN (1080p)
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Thể thao quốc tế",ESPN 
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN 3 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Thể thao quốc tế",ESPN 3 (1080p)
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN 3 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Thể thao quốc tế",ESPN 3 
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Thể thao quốc tế",ESPN 4 (1080p)
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Thể thao quốc tế",ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Thể thao quốc tế",Fox Deportes (720p)
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Thể thao quốc tế",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Thể thao quốc tế",Fox Sports 1 (720p)
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Thể thao quốc tế",Fox Sports 1 
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-name="Fox Sports 2 (720p)" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Thể thao quốc tế",Fox Sports 2 (720p)
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-name="Fox Sports 2 (720p)" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Thể thao quốc tế",Fox Sports 2 
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-name="fubo Sports Network (1080p)" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Thể thao quốc tế",fubo Sports Network (1080p)
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-name="fubo Sports Network (1080p)" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Thể thao quốc tế",fubo Sports Network 
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
 
