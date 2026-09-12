@@ -394,256 +394,256 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="atv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png" group-title="Địa Phương",ATV1 HD | TH An Giang
+#EXTINF:-1 tvg-id="atv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png" group-title="Địa Phương",An Giang 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="atv2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang2.png" group-title="Địa Phương",ATV2 HD | TH An Giang
+#EXTINF:-1 tvg-id="atv2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang2.png" group-title="Địa Phương",An Giang 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="atv3-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang3.png" group-title="Địa Phương",ATV3 HD | TH An Giang
+#EXTINF:-1 tvg-id="atv3-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang3.png" group-title="Địa Phương",An Giang 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="bhttv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png" group-title="Địa Phương",BHTTV HD | TH Hà Tĩnh
+#EXTINF:-1 tvg-id="bhttv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png" group-title="Địa Phương",Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="btn-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/bacninh.png" group-title="Địa Phương",BTN HD | TH Bắc Ninh
+#EXTINF:-1 tvg-id="btn-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/bacninh.png" group-title="Địa Phương",Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="can-tho-1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png" group-title="Địa Phương",Cần Thơ TV 1 | TH Cần Thơ
+#EXTINF:-1 tvg-id="can-tho-1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png" group-title="Địa Phương",Cần Thơ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="can-tho-2" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png" group-title="Địa Phương",Cần Thơ TV 2 | TH Cần Thơ
+#EXTINF:-1 tvg-id="can-tho-2" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png" group-title="Địa Phương",Cần Thơ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="can-tho-3" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho3_new.png" group-title="Địa Phương",Cần Thơ TV 3 | TH Cần Thơ
+#EXTINF:-1 tvg-id="can-tho-3" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho3_new.png" group-title="Địa Phương",Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="crtv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caobang.png" group-title="Địa Phương",CRTV HD | TH Cao Bằng
+#EXTINF:-1 tvg-id="crtv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caobang.png" group-title="Địa Phương",Cao Bằng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ctv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/camau.png" group-title="Địa Phương",CTV HD | TH Cà Mau
+#EXTINF:-1 tvg-id="ctv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/camau.png" group-title="Địa Phương",Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="danang-1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang1.png" group-title="Địa Phương",DaNangTV1 HD
+#EXTINF:-1 tvg-id="danang-1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang1.png" group-title="Địa Phương",Đà Nẵng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="danang-2" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang2.png" group-title="Địa Phương",DaNangTV2 HD
+#EXTINF:-1 tvg-id="danang-2" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang2.png" group-title="Địa Phương",Đà Nẵng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="drt-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/daklak.png" group-title="Địa Phương",DRT HD | TH Đắk Lắk
+#EXTINF:-1 tvg-id="drt-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/daklak.png" group-title="Địa Phương",Đắk Lắk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dnrtv3" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai3.png", ĐNRTV3 HD | TH Đồng Nai
+#EXTINF:-1 tvg-id="dnrtv3" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai3.png", Đồng Nai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 
-#EXTINF:-1 tvg-id="dnrtv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai1.png" group-title="Địa Phương",ĐNRTV1 HD | TH Đồng Nai
+#EXTINF:-1 tvg-id="dnrtv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai1.png" group-title="Địa Phương",Đồng Nai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dnrtv2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai2.png" group-title="Địa Phương",ĐNRTV2 HD | TH Đồng Nai
+#EXTINF:-1 tvg-id="dnrtv2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai2.png" group-title="Địa Phương",Đồng Nai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dtv" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dienbien.png" group-title="Địa Phương",ĐTV | TH Điện Biên
+#EXTINF:-1 tvg-id="dtv" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dienbien.png" group-title="Địa Phương",Điện Biên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="gtv" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/gialai.png" group-title="Địa Phương",GTV | TH Gia Lai
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/gialai.png" group-title="Địa Phương",Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hanoi1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png" group-title="Địa Phương",HanoiTV1 HD
+#EXTINF:-1 tvg-id="hanoi1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png" group-title="Địa Phương",Hà Nội 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="hanoi2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png" group-title="Địa Phương",HanoiTV2 HD
+#EXTINF:-1 tvg-id="hanoi2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png" group-title="Địa Phương", Hà Nội 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="hy-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hungyen.png" group-title="Địa Phương",HY HD | TH Hưng Yên
+#EXTINF:-1 tvg-id="hy-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hungyen.png" group-title="Địa Phương",Hưng Yên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ktv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/khanhhoa.png" group-title="Địa Phương",KTV HD | TH Khánh Hòa
+#EXTINF:-1 tvg-id="ktv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/khanhhoa.png" group-title="Địa Phương",Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ktv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/khanhhoa1.png" group-title="Địa Phương",KTV1 HD | TH Khánh Hòa
+#EXTINF:-1 tvg-id="ktv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/khanhhoa1.png" group-title="Địa Phương",Khánh Hòa 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="lstv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/langson.png" group-title="Địa Phương",LSTV HD | TH Lạng Sơn
+#EXTINF:-1 tvg-id="lstv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/langson.png" group-title="Địa Phương",Lạng Sơn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ltv-hd-laichau" tvg-logo="https://freem3u.xyz/static/images/diaphuong/laichau.png" group-title="Địa Phương",LTV HD | TH Lai Châu
+#EXTINF:-1 tvg-id="ltv-hd-laichau" tvg-logo="https://freem3u.xyz/static/images/diaphuong/laichau.png" group-title="Địa Phương",Lai Châu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ltv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/lamdong01.jpg" group-title="Địa Phương",LTV1 HD | TH Lâm Đồng
+#EXTINF:-1 tvg-id="ltv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/lamdong01.jpg" group-title="Địa Phương",Lâm Đồng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ltv2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/lamdong02.jpg" group-title="Địa Phương",LTV2 HD | TH Lâm Đồng - KV Bình Thuận
+#EXTINF:-1 tvg-id="ltv2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/lamdong02.jpg" group-title="Địa Phương",Lâm Đồng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ntv-hd-nghean" tvg-logo="https://freem3u.xyz/static/images/diaphuong/nghean.png" group-title="Địa Phương",NTV HD | TH Nghệ An
+#EXTINF:-1 tvg-id="ntv-hd-nghean" tvg-logo="https://freem3u.xyz/static/images/diaphuong/nghean.png" group-title="Địa Phương",Nghệ An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ntv-hd-ninhbinh" tvg-logo="https://freem3u.xyz/static/images/diaphuong/ninhbinh.png" group-title="Địa Phương",NTV HD | TH Ninh Bình
+#EXTINF:-1 tvg-id="ntv-hd-ninhbinh" tvg-logo="https://freem3u.xyz/static/images/diaphuong/ninhbinh.png" group-title="Địa Phương",Ninh Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ptv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/phutho.png" group-title="Địa Phương",PTV HD | TH Phú Thọ
+#EXTINF:-1 tvg-id="ptv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/phutho.png" group-title="Địa Phương",Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="quangngaitv2" tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png" group-title="Địa Phương",QNgTV2 - TH QUẢNG NGÃI 2 HD
+#EXTINF:-1 tvg-id="quangngaitv2" tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png" group-title="Địa Phương",QUẢNG NGÃI 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="qpvn-hd" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png" group-title="Địa Phương",QPVN HD
+#EXTINF:-1 tvg-id="qpvn-hd" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png" group-title="Địa Phương",QPVN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="qrtv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png" group-title="Địa Phương",QRTV HD | TH Quảng Trị
+#EXTINF:-1 tvg-id="qrtv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png" group-title="Địa Phương",Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="qtv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/quangninh1.png" group-title="Địa Phương",QTV1 HD | TH Quảng Ninh
+#EXTINF:-1 tvg-id="qtv1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/quangninh1.png" group-title="Địa Phương",Quảng Ninh 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="qtv3-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/quangninh3.png" group-title="Địa Phương",QTV3 HD | TH Quảng Ninh
+#EXTINF:-1 tvg-id="qtv3-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/quangninh3.png" group-title="Địa Phương",Quảng Ninh 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="quangngaitv1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_1.png" group-title="Địa Phương",QuangNgaiTV1 | TH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngaitv1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_1.png" group-title="Địa Phương",Quảng Ngãi 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="stv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/sonla.png" group-title="Địa Phương",STV HD | TH Sơn La
+#EXTINF:-1 tvg-id="stv-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/sonla.png" group-title="Địa Phương",Sơn La
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="tayninh-tv" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg" group-title="Địa Phương",Tây Ninh TV - Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh-tv" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg" group-title="Địa Phương",Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 
-#EXTINF:-1 tvg-id="thdt1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap1.png" group-title="Địa Phương",THĐT1 HD | TH Đồng Tháp
+#EXTINF:-1 tvg-id="thdt1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap1.png" group-title="Địa Phương",Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="thdt2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap2.png" group-title="Địa Phương",THĐT2 HD | TH Đồng Tháp
+#EXTINF:-1 tvg-id="thdt2-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap2.png" group-title="Địa Phương",Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="thlc-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/laocai.png" group-title="Địa Phương",THLC HD | TH Lào Cai
+#EXTINF:-1 tvg-id="thlc-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/laocai.png" group-title="Địa Phương",Lào Cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="thp-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/haiphong.png" group-title="Địa Phương",THP HD | TH Hải Phòng
+#EXTINF:-1 tvg-id="thp-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/haiphong.png" group-title="Địa Phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="thp3-hd" tvg-logo=" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/THP3.png" group-title="Địa Phương",THP3 HD | TH Hải Phòng
+#EXTINF:-1 tvg-id="thp3-hd" tvg-logo=" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/THP3.png" group-title="Địa Phương",Hải Phòng 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="thvl1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png" group-title="Địa Phương",THVL1 | TH Vĩnh Long
+#EXTINF:-1 tvg-id="thvl1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png" group-title="Địa Phương",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="thvl2" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong2.png" group-title="Địa Phương",THVL2 | TH Vĩnh Long
+#EXTINF:-1 tvg-id="thvl2" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong2.png" group-title="Địa Phương",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="thvl3" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong3.png" group-title="Địa Phương",THVL3 | TH Vĩnh Long
+#EXTINF:-1 tvg-id="thvl3" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong3.png" group-title="Địa Phương",Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="thvl4" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong4.png" group-title="Địa Phương",THVL4 | TH Vĩnh Long
+#EXTINF:-1 tvg-id="thvl4" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong4.png" group-title="Địa Phương",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="thvl5" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png" group-title="Địa Phương",THVL5 | TH Vĩnh Long
+#EXTINF:-1 tvg-id="thvl5" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png" group-title="Địa Phương",Vĩnh Long 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="tn1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/thainguyen.png" group-title="Địa Phương",TN1 HD | TH Thái Nguyên
+#EXTINF:-1 tvg-id="tn1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/thainguyen.png" group-title="Địa Phương",Thái Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ttv-hd-thanhhoa" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png" group-title="Địa Phương",TTV HD - Báo và PTTH Thanh Hóa
+#EXTINF:-1 tvg-id="ttv-hd-thanhhoa" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png" group-title="Địa Phương",Thanh Hóa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=89
 
-#EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://freem3u.xyz/static/images/diaphuong/tuyenquang.png" group-title="Địa Phương",TTV HD | TH Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://freem3u.xyz/static/images/diaphuong/tuyenquang.png" group-title="Địa Phương",Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
@@ -1179,6 +1179,8 @@ https://v7.kkphimplayer7.com/20260820/QT327Pkh/3500kb/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/anh-hung.jpg" group-title="Phim truyện",, Anh Hùng
 https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://vntravel.org.vn/zoom-share/1200x630/uploads/images/2026/01/21/mp2-1768933054.jpg" group-title="Phim truyện", Mùi Phở
+https://v7.kkphimplayer7.com/20260901/EHFkQ2Wy/3500kb/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="zing-radio-1" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg" group-title="Nghe nhạc",ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
