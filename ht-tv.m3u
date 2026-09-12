@@ -409,7 +409,7 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1789275643&token=224185a9c
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360plus3&token=73f18d4fd3e3eb3cfbd5a5dbc6652f02
 https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1789275643&token=1000f9165300d54eebf21bbbc3d0a051
 
-#EXTINF:-1 tvg-id="tv360plus4" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
+#EXTINF:-1 tvg-id="tv360plus4" group-title="Sự Kiện" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
