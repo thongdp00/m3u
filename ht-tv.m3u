@@ -189,9 +189,7 @@ https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htv5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV5.jpg" group-title="HTV",HTV5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=151
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htv7-hd" tvg-logo="https://vietanhtv.id.vn/logo/htv7.png" group-title="HTV",HTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
