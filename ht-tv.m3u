@@ -580,7 +580,6 @@ https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="thdt1-hd" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dongthap1.png" group-title="Địa Phương",Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -832,6 +831,14 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Vh2hOIC.png", Outdoor Channel
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QSrAIbk.png", Asian Food Network
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
