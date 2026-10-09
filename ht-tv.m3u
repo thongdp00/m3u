@@ -387,11 +387,11 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/O27388n3bPpLjZWioq9swQ/1789652056/manife
 
 #EXTINF:-1 tvg-id="antv-hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png", ANTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=20&expires=1791559502&token=ffbc1d0a24af04a63ddc401ce024e955
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 #EXTINF:-1 tvg-id="qpvn-hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png", QPVN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=19&expires=1791559502&token=d796d29bdc9f9cf4654a2b739e034b78
+https://freem3u.xyz/api/live/play.m3u8?vid=19
 
 #EXTINF:-1 tvg-id="thvl1hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png", Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -533,7 +533,7 @@ https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png", Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/haiphong.png", Hải Phòng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -728,9 +728,6 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg" group-title="Quốc Tế", Arirang
-https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="bloomberg"  tvg-logo="https://i.imgur.com/rxFZgIK.png" group-title="Quốc Tế", Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -738,20 +735,12 @@ https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cnbc" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png" group-title="Quốc Tế", CNBC
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="cnn"  tvg-logo="https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg" group-title="Quốc Tế", CNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="cna"  tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg" group-title="Quốc Tế", CNA
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/hq720.jpg" group-title="Quốc Tế", CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -761,19 +750,19 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://information.tv5monde.com/sites/tv5-info/files/styles/entete/public/2023-11/tv5monde_logo.jpg" group-title="Quốc Tế", TV5Monde
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
 
 #EXTINF:-1 tvg-id="dw"  tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg" group-title="Quốc Tế", DW
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=109
 
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png" group-title="Quốc Tế", France 24
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/654179-KBS.png" group-title="Quốc Tế", KBS World
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=213
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nhkworld.png" group-title="Quốc Tế", NHK World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
@@ -784,14 +773,6 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png" group-title="Quốc Tế", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-id="outdoorhd"  tvg-logo="https://i.imgur.com/Vh2hOIC.png" group-title="Quốc Tế", Outdoor Channel
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.imgur.com/QSrAIbk.png" group-title="Quốc Tế", Asian Food Network
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd"  tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-title="Quốc Tế", Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
