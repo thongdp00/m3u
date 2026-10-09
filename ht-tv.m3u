@@ -438,8 +438,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=47
 
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png", Cần Thơ 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
-
+https://freem3u.xyz/api/live/play.m3u8?vid=61
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho3_new.png", Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=84
