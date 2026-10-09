@@ -510,14 +510,14 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
 
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png", Quảng Trị
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=83
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", Hanoi 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png", Hanoi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=34&expires=1791559502&token=333a33b57dee686a58e1466e5b421538
+https://freem3u.xyz/api/live/play.m3u8?vid=34
 
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/bacninh.png", Bắc Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -533,7 +533,7 @@ https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png", Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/haiphong.png", Hải Phòng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
