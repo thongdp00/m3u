@@ -1,0 +1,109 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP 1 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106182&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106181&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP 2 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106180&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106179&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP 3 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106178&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP 3 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106177&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP AFRICA FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106176&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP AFRICA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106175&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP ACORES
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106174&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP MADEIRA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106173&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RTP MEMORIA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106172&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106171&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106170&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI 24 FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106169&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI 24 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106168&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI FICCAO FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106167&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI FICCAO HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106166&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI REALITY
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106165&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVI REALITY MOSAICO
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106164&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106163&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106162&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC NOVELAS
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106427&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC NOTICIAS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106161&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC NOTICIAS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106160&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC RADICAL FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106159&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC RADICAL HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106158&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC CARAS FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106157&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC CARAS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106156&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC MULHER FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106155&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",SIC MULHER HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106154&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CMTV FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106153&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CMTV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106152&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",PORTO CANAL FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106151&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",PORTO CANAL HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106150&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TV RECORD FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106149&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TV RECORD HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106148&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",RECORD NEWS
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106147&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TV GLOBO FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106146&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TV GLOBO HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106145&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TV GLOBO NOW FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106144&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TV GLOBO NOW HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106143&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CANÇAO NOVA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106142&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",24 KITCHEN FHD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106141&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",24 KITCHEN HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106140&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CANAL Q
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106139&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CASA E COZINHA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106138&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CASA E COZINHA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106137&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",CBS REALITY
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106136&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",E! ENTERTAINMENT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106135&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",FASHION TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106134&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",FOX NEWS
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106133&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",BLOOMBERG
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106132&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TVE 24H
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106131&extension=ts
+#EXTINF:-1 group-title="PT • PORTUGAL / HEVC",TPA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1106130&extension=ts
