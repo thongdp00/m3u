@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="HU • HUNGARY",★☆★ HUNGARY ★☆★
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=51840&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",AMC
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672286&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",ANIMAL PLANET
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672285&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",ARENA 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672284&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",ATV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672283&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",ATV SPIRIT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672282&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",AXN
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672281&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",AXN BLACK
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672280&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",AXN ROMANIA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672279&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",AXN WHİTE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672278&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",BBC EARTH
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672277&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",BOOMERANG
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672276&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",C8
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672275&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CGTN
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672274&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CLUB MTV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672273&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CNBC EUROPE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672272&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CNN
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672271&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",COMEDY CENTRAL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672270&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",COOL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672269&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CİNEMAX
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672268&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CİNEMAX 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672267&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",CİNEMAX 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672266&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DA VINCI LEARNING
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672265&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DIGI ANIMAL WORLD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672264&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DIGI FILM
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672263&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DIGI LIFE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672262&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DIGI SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672261&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DIKH TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672260&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DIRECT ONE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672259&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DISCOVERY CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672258&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DISCOVERY ID
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672257&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DISCOVERY SHOWCASE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672256&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DISCOVERY WORLD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672255&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DISNEY CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672254&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DISNEY JUNIOR
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672253&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DUCK TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672252&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DUNA HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672251&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",DUNA WORLD / M4 SPORT+
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672250&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",EUROSPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672249&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",EUROSPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672248&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",EWTN
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672247&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FASHION TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672246&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FEM 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672245&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILM 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672244&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILM 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672243&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILM CAFE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672242&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILM MANIA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672241&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILM PLUS
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672240&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILMBOX
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672239&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILMBOX EXTRA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672238&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILMBOX FAMILY
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672237&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILMBOX PLUS INT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672236&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILMBOX PREMIUM
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672235&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FILMBOX STARS
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672234&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",FISHING AND HUNTING
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672233&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",GALAXY 4
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672232&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",HBO 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672231&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",HBO 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672230&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",HBO 3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672229&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",HIR TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672228&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",HISTORY
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672227&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",INVESTIGATION DISCOVERY
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672226&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",IZAURA TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672225&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",JIM JAM
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672224&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",JOCKY TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672223&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",LIFE TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672222&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",LIGHT CHANNEL
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672221&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",LOVE NATURE
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672220&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",M1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672219&extension=ts
+#EXTINF:-1 group-title="HU • HUNGARY",M2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=672218&extension=ts
